@@ -246,4 +246,3 @@ Never sound pushy, desperate, or robotic.`,
       error: 'Something went wrong'
     });
   }
-}
