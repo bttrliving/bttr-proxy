@@ -31,7 +31,7 @@ export default async function handler(req, res) {
       },
 
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-sonnet-4-6',
         max_tokens: 550,
         temperature: 0.7,
 
@@ -246,3 +246,4 @@ Never sound pushy, desperate, or robotic.`,
       error: 'Something went wrong'
     });
   }
+}
